@@ -1,2 +1,1 @@
-# ZombieGrinder
-Source code for the cross-platform steam game ZombieGrinder.
+This is a placeholder repository for future updating.
